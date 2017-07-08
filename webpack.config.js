@@ -36,5 +36,6 @@ module.exports = {
             'window.jQuery': 'jquery',
             Tether: 'tether'
         })
-    ]
+    ],
+    devtool: 'source-map'
 };
