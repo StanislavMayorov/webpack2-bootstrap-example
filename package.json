@@ -4,7 +4,6 @@
   "description": "A demo of how to import bootstrap-sass in webpack 2",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --watch",
     "build": "webpack"
   },
   "author": "Theo Li",
